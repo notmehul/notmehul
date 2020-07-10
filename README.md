@@ -15,5 +15,5 @@
 
 <p align='center'>
     <img src="https://visitor-badge.glitch.me/badge?page_id=notmehul.visitor-badge">
+    Including you!
 </p>
-Including you!
