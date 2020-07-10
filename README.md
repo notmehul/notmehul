@@ -6,4 +6,5 @@
 </p>
 <p align='center'>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+<img src="https://forthebadge.com/images/badges/certified-snoop-lion.svg">
 </p>
