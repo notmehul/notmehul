@@ -12,8 +12,3 @@
     <img src="https://forthebadge.com/images/badges/built-with-love.svg">
     <img src="https://forthebadge.com/images/badges/certified-snoop-lion.svg">
 </p>
-
-<p align='center'>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=notmehul.visitor-badge">
-    Including you!
-</p>
