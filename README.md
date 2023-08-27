@@ -8,7 +8,3 @@
         <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
     </a>
 </p>
-<p align='center'>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-    <img src="https://forthebadge.com/images/badges/certified-snoop-lion.svg">
-</p>
