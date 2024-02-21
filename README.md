@@ -1,6 +1,6 @@
 Hello 👋
 
 
-<img src="dumb-cat.jpg" alt="cat" width="200"/>
+<img src="dumb-cat.jpg" alt="cat" width="400"/>
 
 
