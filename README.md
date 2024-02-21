@@ -1,6 +1,6 @@
 Hello 👋
 
 
-### ![purr](dumb-cat.jpg)
+<img src="dumb-cat.jpg" alt="cat" width="200"/>
 
 
