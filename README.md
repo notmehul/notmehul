@@ -1,7 +1,3 @@
-Hello👋 
-<br/>
-here's a picture of a cat to make your day better :)
-
-<img src="dumb-cat.jpg" alt="cat" width="400"/>
+<img src="for_exceptional_gangster.png" alt="cat" width="600"/>
 
 
