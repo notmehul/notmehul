@@ -1,4 +1,10 @@
-<img src="dream-car.jpg" alt="cat" width=70% />
+<img src="dream-car.jpg" alt="cat" width=65% />
+
+<figure>
+  <img src="dream-car.jpg" alt="cat" width=70% alt="Dream Car"/>
+  <figcaption>Follow to help me get my dream vehicle</figcaption>
+</figure>
+
 
 ## Hi, I'm [Mehul](https://github.com/notmehul) 👋
 
