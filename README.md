@@ -1,3 +1,3 @@
-<img src="for_exceptional_gangster.png" alt="cat" width=30% />
+<img src="dream-car.jpg" alt="cat" width=90% />
 
 
