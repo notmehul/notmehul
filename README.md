@@ -9,5 +9,5 @@ currently an founder in residence at [Biome](https://www.biome.in/) where I am h
 
 
 ## you can find me here
-[linkedin](https://www.linkedin.com/in/probablymehul/)
+[linkedin](https://www.linkedin.com/in/probablymehul/) | 
 [Semi-regularly updated blog](https://probablysemicolons.substack.com/)
