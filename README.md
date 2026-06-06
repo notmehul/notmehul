@@ -6,7 +6,7 @@ I build AI systems around memory, taste, and personal context.
 
 Right now I'm working on [Marshmallow](https://github.com/notmehul/marshmallow), a local-first alignment layer for coding agents. It turns the things you make, like, reject, and repeatedly care about, into compact context that agents can actually use.
 
-## interests
+## interests/ things i don't stop talking about
 
 AI agents, personal intelligence, local-first tools, research systems, taste-aware software, and machines of loving grace.
 
