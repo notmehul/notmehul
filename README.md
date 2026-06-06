@@ -1,11 +1,15 @@
-<img src="dream-car.jpg" alt="cat" width=60% alt="Dream Car"/>
+<!-- <img src="dream-car.jpg" alt="cat" width=60% alt="Dream Car"/> -->
 
-## hello, I'm mehul
+### hello, i'm mehul
 
-programmer, AI enjoyer, and founder of a research lab (currently in stealth). My work primarily involves in building AI systems that create delight and going towards machines of loving grace.
+I build AI systems around memory, taste, and personal context.
 
+Right now I'm working on [Marshmallow](https://github.com/notmehul/marshmallow), a local-first alignment layer for coding agents. It turns the things you make, like, reject, and repeatedly care about, into compact context that agents can actually use.
 
-## you can find me here
-[linkedin](https://www.linkedin.com/in/probablymehul/) 
-[Semi-regularly updated blog](https://probablysemicolons.substack.com/)
-[twitter](https://x.com/alienpisscrack)
+### interests
+
+AI agents, personal intelligence, local-first tools, research systems, taste-aware software, and machines of loving grace.
+
+### you can find me here aswell
+
+[blog](https://probablysemicolons.substack.com/) · [x/twitter](https://x.com/alienpisscrack) · [linkedin](https://www.linkedin.com/in/probablymehul/)
